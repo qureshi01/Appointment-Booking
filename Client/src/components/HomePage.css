@@ -1,0 +1,35 @@
+.main-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .main-heading {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .main-nav {
+    margin-top: 20px;
+  }
+  
+  .main-nav-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .main-nav-item {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .main-nav-link {
+    text-decoration: none;
+    color: #007bff; /* Adjust link color as needed */
+    font-size: 18px;
+  }
+  
+  .main-nav-link:hover {
+    text-decoration: underline;
+  }
+  

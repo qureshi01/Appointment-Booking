@@ -1,0 +1,39 @@
+.patient-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .patient-list-heading {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .patient-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .patient-list-item {
+    margin-bottom: 15px;
+  }
+  
+  .patient-name {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .patient-contact {
+    color: #888;
+  }
+  
+  .book-appointment-link {
+    color: #007bff;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  .book-appointment-link:hover {
+    text-decoration: underline;
+  }
+  
